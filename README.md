@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Shruuutiiiiiii
 - 👀 I’m interested in coding,web development
-- 🌱 I’m currently learning python and js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning python and Data structures and algorithms
+- 💞️ I’m looking to collaborate on coding platforms
+- 📫 How to reach me -you can reach me on my linked in profile
 
 <!---
 Shruuutiiiiiii/Shruuutiiiiiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
